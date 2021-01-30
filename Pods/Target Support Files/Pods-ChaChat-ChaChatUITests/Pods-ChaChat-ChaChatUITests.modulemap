@@ -1,0 +1,6 @@
+framework module Pods_ChaChat_ChaChatUITests {
+  umbrella header "Pods-ChaChat-ChaChatUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
